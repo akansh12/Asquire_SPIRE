@@ -1,2 +1,2 @@
-# Asquire_SPIRE
-IISC bengaluru
+## SVM model
+
